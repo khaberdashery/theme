@@ -926,10 +926,11 @@ article.li {
 }
 
 .post-time {
-	text-transform: uppercase;
-	letter-spacing: 4px;
+	letter-spacing: 2px;
 	margin-bottom: 30px;
-	font-size: 80%
+    font-size: 100%;
+    font-family: "Homemade Apple";
+    color: #555;
 }
 
 .post-footer {
