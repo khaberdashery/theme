@@ -32,7 +32,7 @@ template {
 }
 
 html {
-	font-family: sans-serif;
+	font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
@@ -482,7 +482,7 @@ cite {
 html {
 	margin: 0;
 	padding: 0;
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 100%;
 	line-height: 1.65;
 	font-weight: normal;
