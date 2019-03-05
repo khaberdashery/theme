@@ -294,8 +294,6 @@ h6 {
 }
 
 h1 {
-	font-size: 60px;
-	font-size: 3.33333rem;
 	margin-bottom: 0.495em
 }
 
@@ -319,7 +317,7 @@ h2 {
 
 h3 {
 	font-size: 36px;
-	font-size: 2rem;
+	font-size: 1.8rem;
 	margin-bottom: 0.825em
 }
 
@@ -873,9 +871,8 @@ hr {
 
 #site-header {
 	text-align: center;
-	min-height: 15em;
-	padding-top: 7em;
-	margin-bottom: 9em
+	min-height: 10em;
+	padding-top: 2em;
 }
 
 @media (max-width: 800px) {
@@ -886,7 +883,7 @@ hr {
 }
 
 .blog-title {
-	font-size: 35px
+	font-size: 35px;
 }
 
 .blog-description {
@@ -922,15 +919,18 @@ article.li {
 }
 
 .post-title {
-	margin-bottom: 30px
+	margin-bottom: 1.8rem;
 }
 
 .post-time {
 	letter-spacing: 2px;
-	margin-bottom: 30px;
     font-size: 100%;
     font-family: "Homemade Apple";
     color: #555;
+}
+
+.post-excerpt {
+    font-size: 115%;
 }
 
 .post-footer {
